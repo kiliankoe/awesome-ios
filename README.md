@@ -12,6 +12,14 @@ Navigating back through several layers at once in a navigation context works the
 
 When there is a navigation stack in a tab bar item, tapping the tab navigates to the root of the navigation stack.
 
+## Keyboard
+
+You can now move the cursor by holding down on the spacebar and then moving across the entire keyboard. Select text by tapping anywhere on the keyboard with a second finger and moving the cursor with the first finger to select. ([thanks Martin](https://twitter.com/mrtnlst/status/1184201308020137984?s=21))
+
+To quickly enter numbers or punctuation without having to tap on the <kbd>123</kbd> key, the character/digit and the <kbd>123</kbd> key again, just hold it, swipe to your number or punctuation character of choice and let go. iOS will then jump back to the default keyboard layout.
+
+Swiping Umlauts (Ä, Ö etc) simply works by swiping the equivalent latin letter spelling (AE -> Ä, OE -> Ö etc).
+
 ## Safari
 
 Accidentally closed a tab? No worries, just press and hold the new tab button <kbd>+</kbd> in the tab overview to reopen recently closed tabs.
@@ -38,14 +46,6 @@ With multiple selected Live Photos that have overlapping video frames, pick “S
 ## Screenshots
 
 Cropping screenshots snaps to view boundaries.
-
-## Keyboard
-
-You can now move the cursor by holding down on the spacebar and then moving across the entire keyboard. Select text by tapping anywhere on the keyboard with a second finger and moving the cursor with the first finger to select. ([thanks Martin](https://twitter.com/mrtnlst/status/1184201308020137984?s=21))
-
-To quickly enter numbers or punctuation without having to tap on the <kbd>123</kbd> key, the character/digit and the <kbd>123</kbd> key again, just hold it, swipe to your number or punctuation character of choice and let go. iOS will then jump back to the default keyboard layout.
-
-Swiping Umlauts (Ä, Ö etc) simply works by swiping the equivalent latin letter spelling (AE -> Ä, OE -> Ö etc).
 
 ## Camera
 
